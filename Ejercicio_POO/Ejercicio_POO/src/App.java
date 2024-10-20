@@ -3,9 +3,6 @@ import modelo.Autor;
 import modelo.Libro;
 import com.coti.tools.Esdia;
 
-// IRL a Github
-// https://github.com/nicolasjml01/Ejercicio_Introduccion_POO.git
-
 public class App {
     public static void main(String[] args) throws Exception {
         boolean continuar = true;
